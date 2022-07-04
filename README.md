@@ -18,6 +18,9 @@ The refactored code was designed by using FOR loops and IF statements to get the
   This allows us to loop through all the data and find out the annual return for each stock over the year. With the refactored code, we can also place code to see the time that it took for us to complete the analysis with the refactored code, which is significantly lower than the previous version of the code. Formatting the table that is created from the data collected also allows us to easily understand which stocks performed well and which ones underperformed. 
 
 ![image](https://user-images.githubusercontent.com/107448860/177063285-ee448153-2bf3-4c90-a0ae-9fbf140be98a.png)
+![2017 Stock Analysis](https://user-images.githubusercontent.com/107448860/177064317-0184ceec-f4af-4ee8-9368-3903ceb1f7e3.png) ![2018 Stock Analysis](https://user-images.githubusercontent.com/107448860/177064332-839219fc-957f-4b56-8c3c-8d56ae592a98.png)
+
+
 
 # Advantages and Disadvantages of Refactoring
 
@@ -34,4 +37,7 @@ The disadvantages of refactoring code include the amount of time that it takes t
 The biggest difference between the different code was the quality of each code. The original code was much more cluttered and was not structured in a way that was understandable. The efficiency in the code was also extremely low and did not analyze the data at a fast pace. The refactored code contained more coding than what the original had but ran at a much faster pace and also allowed us to run more data at once. The downside of creating the refactored code was the amount of time that it took to create it. The original code was much easier to create and was much simpler, but with the refactored we are able to complile much more and create a bug free program that is much cleaner. 
 
 # Summary
+
+![image](https://user-images.githubusercontent.com/107448860/177064366-db0adee1-fc19-4792-be04-315a4136a385.png)
+
 This assignment has shown that refactored code is much more beneficial if you have the time and resources at your disposal. Although it may be time consuming to begin with, the amount of time that you will spend debugging and processing data without the refactored code should be able to make up for the time that it took to create the code. Coding should be about efficiency and creating a cleaner and more concise code will teach much more than creating the easier option that will not run as efficiently.
